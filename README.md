@@ -1,6 +1,15 @@
 # **COMANDOS BÁSICOS**
+
+<mark>==stdout: secuencia de salida.==</mark>
+
+<div>stdout: secuencia de salida.</div>
+
+<div>stdout: secuencia de salida.</div>
+
+<div>stdout: secuencia de salida.</div>
+
 <pre><code>stdin: secuencia de entrada.
-stdout: secuencia de salida.
+
 cat: Muestra el contenido de un archivo ejemplo cat archivo.txt
 echo: imprimir texto por pantalla ejemplo echo “Opa Racing”
 tee: guarda la salida de un archivo y la muestra ej ls | tee lista.txt
